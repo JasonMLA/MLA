@@ -1,3 +1,3 @@
-import ClinicAcquisitionWebsite from '../components/ClinicAcquisitionWebsite';
+import ClinicAcquisitionWebsite from '../src/components/ClinicAcquisitionWebsite';
 
 export default ClinicAcquisitionWebsite;
